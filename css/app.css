@@ -2,6 +2,12 @@ html {
     scroll-behavior: smooth !important;
 }
 
+.home {
+    background-image: url('./assets/images/cover-floral-kanan.png');
+    background-position: right;
+    background-repeat: no-repeat;
+}
+
 body {
     font-family: 'Josefin Sans', sans-serif !important;
     padding: 0 !important;
