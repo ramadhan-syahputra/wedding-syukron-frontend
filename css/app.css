@@ -3,7 +3,7 @@ html {
 }
 
 .home {
-    background-image: url('./assets/images/cover-floral-kanan.png');
+    background-image: url('../assets/images/cover-floral-kanan.png');
     background-position: right;
     background-repeat: no-repeat;
 }
