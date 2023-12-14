@@ -2,6 +2,13 @@ html {
     scroll-behavior: smooth !important;
 }
 
+#welcome {
+    background-image: url('../assets/images/cover-floral-kanan.png');
+    background-position: right;
+    background-repeat: no-repeat;
+
+}
+
 #home {
     
     background-position: right;
