@@ -2,7 +2,7 @@ html {
     scroll-behavior: smooth !important;
 }
 
-.home {
+.container {
     background-image: url('../assets/images/cover-floral-kanan.png');
     background-position: right;
     background-repeat: no-repeat;
